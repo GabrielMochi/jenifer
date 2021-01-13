@@ -8,7 +8,7 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}/src/ignition.ts",
+      "program": "${workspaceFolder}/src/index.ts",
       "preLaunchTask": "bittee: build",
       "sourceMaps": true,
       "smartStep": true,
